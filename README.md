@@ -10,13 +10,13 @@
 <br>
         mosaic_yolov5
         <br>
-        └─data
+        &emsp;└─data
         <br>
-            ├─labels
+            &emsp;&emsp;├─labels
             <br>
-            └─original_movie
+            &emsp;&emsp;└─original_movie
             <br>
-                      └─bbb.mp4
+                      &emsp;&emsp;&emsp;└─bbb.mp4
                       <br>
 <br>
 3. python main.py
