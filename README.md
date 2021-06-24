@@ -25,6 +25,7 @@
 &emsp;[9] &emsp;video_path = "./data/original_movie/bbb.mp4" # bbb is your mp4 file name
 
 
-
-3. python mosaic.py
+<br>
+<br>
+4. python mosaic.py
 <br>
