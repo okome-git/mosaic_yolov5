@@ -22,6 +22,7 @@
 <br>
 <br>
 3. Change mp4 file name in mosac.py
+<br>
 &emsp;[9] &emsp;video_path = "./data/original_movie/bbb.mp4" # bbb is your mp4 file name
 
 
