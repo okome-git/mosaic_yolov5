@@ -19,5 +19,5 @@
                       &emsp;&emsp;&emsp;└─bbb.mp4
                       <br>
 <br>
-3. python main.py
+3. python mosaic.py
 <br>
