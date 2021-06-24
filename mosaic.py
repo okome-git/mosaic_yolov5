@@ -13,8 +13,7 @@ video_path = "./data/original_movie/kamaitachi.mp4"
 img_dir = "./data/tmp/"
 save_dir = "./data/mosaic_images/"
 ext = "jpg"
-basename = "WIN_20210613_10_25_03_Pro"
-output_dir = "./data/tmp/" + basename
+
 
 os.makedirs(img_dir, exist_ok=True)
 os.makedirs(save_dir, exist_ok=True)
