@@ -6,10 +6,9 @@ import shutil
 from glob import glob
 import matplotlib.pyplot as plt
 
+video_path = "./data/original_movie/bbb.mp4" # bbb is your mp4 file name
 
 label_dir = "./data/labels/"
-video_path = "./data/original_movie/kamaitachi.mp4"
-
 img_dir = "./data/tmp/"
 save_dir = "./data/mosaic_images/"
 ext = "jpg"
