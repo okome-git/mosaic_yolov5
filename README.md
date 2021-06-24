@@ -21,5 +21,10 @@
                       <br>
 <br>
 <br>
+3. Change mp4 file name in mosac.py
+&emsp;[9] &emsp;video_path = "./data/original_movie/bbb.mp4" # bbb is your mp4 file name
+
+
+
 3. python mosaic.py
 <br>
