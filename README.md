@@ -1,6 +1,15 @@
 # mosaic_yolov5
+<br>
+<br>
+## Case2 : Use output YOLOv5 labels and original movie
+<br>
+1. Simply type commands like yolov5 like below:
+  <br>
+  &emsp;python .\detect.py --source aaa/bbb.mp4 --save-txt --classes 0
+<br>
+<br>
 
-## How to use
+## Case2 : Use output YOLOv5 labels and original movie
 <br>
 1. Create label using yolov5 as follows:
 <br>
