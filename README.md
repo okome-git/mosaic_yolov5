@@ -2,7 +2,7 @@
 
 ## Case1 : Use like a yolov5
 <br>
-1. Simply type commands like yolov5 like below:
+1. Simply type commands like a yolov5 as follows:
   <br>
   &emsp;python .\detect.py --source aaa/bbb.mp4 --save-txt --classes 0
 <br>
