@@ -110,7 +110,7 @@ def detect(save_img=False):
 
                     if save_img or view_img:  # Add bbox to image
                         label = f'{names[int(cls)]} {conf:.2f}'
-                        plot_one_mosaic(xyxy, im0, label=label, ratio=0.1)
+                        plot_one_mosaic(xyxy, im0, label=label, ratio=0.05)
 
             # Print time (inference + NMS)
             print(f'{s}Done. ({t2 - t1:.3f}s)')
