@@ -1,6 +1,6 @@
 # mosaic_yolov5
 
-## Case1 : Use output YOLOv5 labels and original movie
+## Case1 : Use like a yolov5
 <br>
 1. Simply type commands like yolov5 like below:
   <br>
