@@ -1,6 +1,5 @@
 # mosaic_yolov5
-<br>
-<br>
+
 ## Case1 : Use output YOLOv5 labels and original movie
 <br>
 1. Simply type commands like yolov5 like below:
